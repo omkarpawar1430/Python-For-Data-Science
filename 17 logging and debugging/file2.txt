@@ -1,0 +1,5 @@
+result: 3.0 
+result: 3.0 
+result: 3.0 
+result: 3.0 
+result: 3.0 

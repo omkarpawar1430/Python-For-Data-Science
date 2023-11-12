@@ -1,0 +1,8 @@
+2023-11-08 14:27:53,675 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:31:04,074 : my_logger : WARNING : This is a warning message
+2023-11-08 14:31:04,078 : my_logger : ERROR : This is an error message
+2023-11-08 14:31:04,082 : my_logger : CRITICAL : This is a critical message
+2023-11-08 14:53:45,879 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:54:51,693 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:55:46,954 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:55:56,091 : my_logger : ERROR : Error: division by zero ocurred.

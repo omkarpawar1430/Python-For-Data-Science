@@ -1,0 +1,20 @@
+2023-11-08 14:27:53,675 : my_logger : INFO : program initiated...
+2023-11-08 14:27:53,675 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:27:53,675 : my_logger : INFO : sub to data decides
+2023-11-08 14:31:04,064 : my_logger : DEBUG : This is a debug message
+2023-11-08 14:31:04,067 : my_logger : INFO : This is an info message
+2023-11-08 14:31:04,074 : my_logger : WARNING : This is a warning message
+2023-11-08 14:31:04,078 : my_logger : ERROR : This is an error message
+2023-11-08 14:31:04,082 : my_logger : CRITICAL : This is a critical message
+2023-11-08 14:53:45,876 : my_logger : INFO : program initiated...
+2023-11-08 14:53:45,879 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:53:45,885 : my_logger : INFO : sub to data decides
+2023-11-08 14:54:51,686 : my_logger : INFO : program initiated...
+2023-11-08 14:54:51,693 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:54:51,701 : my_logger : INFO : sub to data decides
+2023-11-08 14:55:46,950 : my_logger : INFO : program initiated...
+2023-11-08 14:55:46,954 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:55:46,957 : my_logger : INFO : sub to data decides
+2023-11-08 14:55:56,077 : my_logger : INFO : program initiated...
+2023-11-08 14:55:56,091 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:55:56,110 : my_logger : INFO : sub to data decides

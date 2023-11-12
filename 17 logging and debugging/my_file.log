@@ -1,0 +1,3 @@
+2023-11-08 14:56:38,801 : my_logger : INFO : program initiated...
+2023-11-08 14:56:38,803 : my_logger : ERROR : Error: division by zero ocurred.
+2023-11-08 14:56:38,805 : my_logger : INFO : sub to data decides
